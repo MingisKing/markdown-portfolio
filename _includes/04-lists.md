@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Lego
+* Books
+* Good IDEs
+* Memes
+* Friends
+* No :bug:
