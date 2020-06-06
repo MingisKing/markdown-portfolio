@@ -4,4 +4,4 @@ I like:
 * Good IDEs
 * Memes
 * Friends
-* No :bug:
+* No 🐛
